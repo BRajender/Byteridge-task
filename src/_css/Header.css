@@ -1,0 +1,14 @@
+.navbar{
+    background-color: #35384d;
+     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.12);
+      padding: 14px 54px !important;
+}
+.nav-link{
+    color:#ffff !important;
+}
+.nav-link-active{
+border-bottom: 2px solid #dd0c55;
+}
+a{
+    cursor: pointer;
+}
